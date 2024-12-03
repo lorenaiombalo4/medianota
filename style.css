@@ -14,24 +14,24 @@ body{
 }
 
 .container{
-    background-color: rgb(19, 6, 92);
+    background-color: rgb(131, 16, 54);
     border-radius: 8px;
     padding: 20px;
-    box-shadow: 04px 8px rgba(0,0,0,1);
+    box-shadow: 04px 8px rgb(190, 40, 123);
     width: 300px;
 }
 
 h1{
     text-align: center;
     margin-bottom: 20px;
-    color: rgb(9, 48, 82);
+    color: rgb(131, 33, 62);
 }
 
 .label{ 
     margin-bottom: 8px;
     display: block;
     font-size: 14px;
-    color: #555;
+    color: #550505;
 }
 
 .input{
